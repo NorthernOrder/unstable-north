@@ -1,0 +1,14 @@
+name = "Better Biome Blend"
+filename = "betterbiomeblend-1.17.0-1.2.7-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3406/837/betterbiomeblend-1.17.0-1.2.7-fabric.jar"
+hash-format = "murmur2"
+hash = "241638876"
+
+[update]
+[update.curseforge]
+file-id = 3406837
+project-id = 446253
+release-channel = "beta"

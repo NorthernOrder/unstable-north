@@ -1,0 +1,14 @@
+name = "Caves and Cliffs add-on for William Wythers' Overworld"
+filename = "CavesAndCliffsAddOnForWilliamWythersOverhauledOverworld-1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3392/762/CavesAndCliffsAddOnForWilliamWythersOverhauledOverworld-1.1.jar"
+hash-format = "murmur2"
+hash = "2571505383"
+
+[update]
+[update.curseforge]
+file-id = 3392762
+project-id = 497450
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Tax Free Levels"
+filename = "TaxFreeLevels-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3380/785/TaxFreeLevels-1.2.1.jar"
+hash-format = "murmur2"
+hash = "393833122"
+
+[update]
+[update.curseforge]
+file-id = 3380785
+project-id = 462128
+release-channel = "beta"

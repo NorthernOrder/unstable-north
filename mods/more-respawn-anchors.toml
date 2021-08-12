@@ -1,0 +1,14 @@
+name = "More Respawn Anchors"
+filename = "morerespawnanchors-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3329/429/morerespawnanchors-1.0.1.jar"
+hash-format = "murmur2"
+hash = "1241624113"
+
+[update]
+[update.curseforge]
+file-id = 3329429
+project-id = 442640
+release-channel = "beta"

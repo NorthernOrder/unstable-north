@@ -1,0 +1,14 @@
+name = "Health Overlay (Fabric)"
+filename = "HealthOverlay-1.17.1-4.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3403/605/HealthOverlay-1.17.1-4.0.1.jar"
+hash-format = "murmur2"
+hash = "1021857093"
+
+[update]
+[update.curseforge]
+file-id = 3403605
+project-id = 313219
+release-channel = "beta"

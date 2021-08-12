@@ -1,0 +1,14 @@
+name = "ParadoxSlabs"
+filename = "paradox-slabs-0.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3311/491/paradox-slabs-0.1.1.jar"
+hash-format = "murmur2"
+hash = "1279974636"
+
+[update]
+[update.curseforge]
+file-id = 3311491
+project-id = 438732
+release-channel = "beta"

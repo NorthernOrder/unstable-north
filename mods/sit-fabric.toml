@@ -1,0 +1,14 @@
+name = "Sit (Fabric)"
+filename = "sit-1.17-12.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3343/912/sit-1.17-12.jar"
+hash-format = "murmur2"
+hash = "415845404"
+
+[update]
+[update.curseforge]
+file-id = 3343912
+project-id = 328163
+release-channel = "beta"

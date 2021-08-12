@@ -1,0 +1,14 @@
+name = "More Axolotl Variants Mod"
+filename = "mavm-1.0.2b.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3375/697/mavm-1.0.2b.jar"
+hash-format = "murmur2"
+hash = "1996019094"
+
+[update]
+[update.curseforge]
+file-id = 3375697
+project-id = 498797
+release-channel = "beta"

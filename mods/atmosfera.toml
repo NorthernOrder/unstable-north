@@ -1,0 +1,14 @@
+name = "Atmosfera"
+filename = "atmosfera-2.0.0+mc1.17.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3413/595/atmosfera-2.0.0+mc1.17.jar"
+hash-format = "murmur2"
+hash = "1050419992"
+
+[update]
+[update.curseforge]
+file-id = 3413595
+project-id = 338456
+release-channel = "beta"

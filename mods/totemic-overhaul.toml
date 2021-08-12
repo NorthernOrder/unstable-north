@@ -1,0 +1,14 @@
+name = "Totemic Overhaul"
+filename = "totemic-overhaul-1.1.7_1.17.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3378/363/totemic-overhaul-1.1.7_1.17.jar"
+hash-format = "murmur2"
+hash = "1572403561"
+
+[update]
+[update.curseforge]
+file-id = 3378363
+project-id = 456370
+release-channel = "beta"

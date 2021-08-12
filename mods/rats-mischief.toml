@@ -1,0 +1,14 @@
+name = "Rat's Mischief 🐀"
+filename = "ratsmischief-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3418/267/ratsmischief-1.2.1.jar"
+hash-format = "murmur2"
+hash = "4206396848"
+
+[update]
+[update.curseforge]
+file-id = 3418267
+project-id = 431787
+release-channel = "beta"

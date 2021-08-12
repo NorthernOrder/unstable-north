@@ -1,0 +1,14 @@
+name = "Things [Fabric]"
+filename = "things-0.2.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3403/563/things-0.2.2.jar"
+hash-format = "murmur2"
+hash = "945191518"
+
+[update]
+[update.curseforge]
+file-id = 3403563
+project-id = 456151
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "slotlink"
+filename = "slotlink-3.0.9.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3415/38/slotlink-3.0.9.jar"
+hash-format = "murmur2"
+hash = "706574804"
+
+[update]
+[update.curseforge]
+file-id = 3415038
+project-id = 391014
+release-channel = "beta"

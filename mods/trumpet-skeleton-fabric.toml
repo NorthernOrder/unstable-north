@@ -1,0 +1,14 @@
+name = "Trumpet Skeleton (Fabric)"
+filename = "trumpet-skeleton-fabric-1.1.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3393/846/trumpet-skeleton-fabric-1.1.4.jar"
+hash-format = "murmur2"
+hash = "4165644598"
+
+[update]
+[update.curseforge]
+file-id = 3393846
+project-id = 330417
+release-channel = "beta"

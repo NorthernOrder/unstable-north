@@ -1,0 +1,14 @@
+name = "Custom Splash Screen"
+filename = "customsplashscreen-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3386/322/customsplashscreen-1.1.0.jar"
+hash-format = "murmur2"
+hash = "1824626395"
+
+[update]
+[update.curseforge]
+file-id = 3386322
+project-id = 438252
+release-channel = "beta"

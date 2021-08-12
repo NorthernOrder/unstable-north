@@ -1,0 +1,14 @@
+name = "Assembly (Fabric)"
+filename = "assembly-fabric-21w06a-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3206/662/assembly-fabric-21w06a-1.0.0.jar"
+hash-format = "murmur2"
+hash = "3121476657"
+
+[update]
+[update.curseforge]
+file-id = 3206662
+project-id = 447592
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "FPS Reducer"
+filename = "FpsReducer-fabric-1.23-mc1.17.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3419/937/FpsReducer-fabric-1.23-mc1.17.1.jar"
+hash-format = "murmur2"
+hash = "2560129741"
+
+[update]
+[update.curseforge]
+file-id = 3419937
+project-id = 280294
+release-channel = "beta"

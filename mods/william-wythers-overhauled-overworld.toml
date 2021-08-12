@@ -1,0 +1,14 @@
+name = "William Wythers' Overhauled Overworld"
+filename = "WilliamWythersOverhauledOverworld-1.5(1.17.x).jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3388/759/WilliamWythersOverhauledOverworld-1.5(1.17.x).jar"
+hash-format = "murmur2"
+hash = "240993751"
+
+[update]
+[update.curseforge]
+file-id = 3388759
+project-id = 490686
+release-channel = "beta"

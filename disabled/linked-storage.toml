@@ -1,0 +1,14 @@
+name = "Linked Storage"
+filename = "linkedstorage-1.3.11-1.17.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3351/337/linkedstorage-1.3.11-1.17.jar"
+hash-format = "murmur2"
+hash = "222091523"
+
+[update]
+[update.curseforge]
+file-id = 3351337
+project-id = 357718
+release-channel = "beta"

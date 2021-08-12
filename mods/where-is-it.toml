@@ -1,0 +1,14 @@
+name = "Where Is It"
+filename = "whereisit-1.17.1-1.13.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3397/259/whereisit-1.17.1-1.13.3.jar"
+hash-format = "murmur2"
+hash = "345825419"
+
+[update]
+[update.curseforge]
+file-id = 3397259
+project-id = 378036
+release-channel = "beta"

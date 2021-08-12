@@ -1,0 +1,14 @@
+name = "Simple Backpack [FABRIC]"
+filename = "SimpleBackpack_Fabric-1.17.1-1.1.18.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3419/121/SimpleBackpack_Fabric-1.17.1-1.1.18.jar"
+hash-format = "murmur2"
+hash = "4124627397"
+
+[update]
+[update.curseforge]
+file-id = 3419121
+project-id = 383999
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Better Sodium Video Settings Button"
+filename = "BetterSodiumVideoSettingsButton-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3406/118/BetterSodiumVideoSettingsButton-2.0.1.jar"
+hash-format = "murmur2"
+hash = "2810690034"
+
+[update]
+[update.curseforge]
+file-id = 3406118
+project-id = 437443
+release-channel = "beta"

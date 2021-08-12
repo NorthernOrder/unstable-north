@@ -1,0 +1,14 @@
+name = "MedievalWeapons"
+filename = "medievalweapons-1.1.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3393/652/medievalweapons-1.1.6.jar"
+hash-format = "murmur2"
+hash = "2116346330"
+
+[update]
+[update.curseforge]
+file-id = 3393652
+project-id = 411400
+release-channel = "beta"

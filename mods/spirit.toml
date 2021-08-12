@@ -1,0 +1,14 @@
+name = "Spirit"
+filename = "spirit-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3386/768/spirit-1.0.5.jar"
+hash-format = "murmur2"
+hash = "3517386692"
+
+[update]
+[update.curseforge]
+file-id = 3386768
+project-id = 495509
+release-channel = "beta"

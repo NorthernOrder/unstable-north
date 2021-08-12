@@ -1,0 +1,14 @@
+name = "Skinned Lanterns (Fabric)"
+filename = "skinnedlanterns-1.1.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3371/706/skinnedlanterns-1.1.5.jar"
+hash-format = "murmur2"
+hash = "3600380483"
+
+[update]
+[update.curseforge]
+file-id = 3371706
+project-id = 422527
+release-channel = "beta"

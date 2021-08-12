@@ -1,0 +1,14 @@
+name = "World Blender (Fabric)"
+filename = "world_blender_fabric-3.0.6+1.17.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3405/282/world_blender_fabric-3.0.6+1.17.0.jar"
+hash-format = "murmur2"
+hash = "2367811289"
+
+[update]
+[update.curseforge]
+file-id = 3405282
+project-id = 409480
+release-channel = "beta"

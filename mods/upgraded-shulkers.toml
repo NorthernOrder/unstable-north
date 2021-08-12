@@ -1,0 +1,14 @@
+name = "Upgraded Shulkers"
+filename = "upgradedshulkers-1.0.1.-1.17.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3351/389/upgradedshulkers-1.0.1.-1.17.jar"
+hash-format = "murmur2"
+hash = "3235988544"
+
+[update]
+[update.curseforge]
+file-id = 3351389
+project-id = 454052
+release-channel = "beta"

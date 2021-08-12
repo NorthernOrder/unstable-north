@@ -1,0 +1,14 @@
+name = "Castle Dungeons [Forge & Fabric]"
+filename = "castle_dungeons-2.6-1.17-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3391/48/castle_dungeons-2.6-1.17-fabric.jar"
+hash-format = "murmur2"
+hash = "3259833962"
+
+[update]
+[update.curseforge]
+file-id = 3391048
+project-id = 399213
+release-channel = "beta"

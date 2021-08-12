@@ -1,0 +1,14 @@
+name = "Chunky Pregenerator (Fabric)"
+filename = "Chunky-1.2.93.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3378/360/Chunky-1.2.93.jar"
+hash-format = "murmur2"
+hash = "1641268177"
+
+[update]
+[update.curseforge]
+file-id = 3378360
+project-id = 433175
+release-channel = "beta"

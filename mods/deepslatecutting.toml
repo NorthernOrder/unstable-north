@@ -1,0 +1,14 @@
+name = "DeepslateCutting"
+filename = "DeepslateCutting-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3414/459/DeepslateCutting-1.1.2.jar"
+hash-format = "murmur2"
+hash = "3799361893"
+
+[update]
+[update.curseforge]
+file-id = 3414459
+project-id = 504899
+release-channel = "beta"

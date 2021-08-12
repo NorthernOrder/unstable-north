@@ -1,0 +1,14 @@
+name = "AzureDooms Angel Ring [Fabric]"
+filename = "Angel-Ring-Fabric-1.17-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3388/981/Angel-Ring-Fabric-1.17-1.0.1.jar"
+hash-format = "murmur2"
+hash = "75938910"
+
+[update]
+[update.curseforge]
+file-id = 3388981
+project-id = 402762
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Haema"
+filename = "haema-1.7.4+1.17.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3419/193/haema-1.7.4+1.17.jar"
+hash-format = "murmur2"
+hash = "3752285119"
+
+[update]
+[update.curseforge]
+file-id = 3419193
+project-id = 391257
+release-channel = "beta"

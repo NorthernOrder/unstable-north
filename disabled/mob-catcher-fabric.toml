@@ -1,0 +1,14 @@
+name = "Mob Catcher [FABRIC]"
+filename = "MobCatcher-Fabric-1.17.1-1.0.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3405/385/MobCatcher-Fabric-1.17.1-1.0.7.jar"
+hash-format = "murmur2"
+hash = "2735132571"
+
+[update]
+[update.curseforge]
+file-id = 3405385
+project-id = 498389
+release-channel = "beta"

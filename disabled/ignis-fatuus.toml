@@ -1,0 +1,14 @@
+name = "Ignis Fatuus"
+filename = "ignis-fatuus-1.1.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3347/320/ignis-fatuus-1.1.4.jar"
+hash-format = "murmur2"
+hash = "963277490"
+
+[update]
+[update.curseforge]
+file-id = 3347320
+project-id = 412174
+release-channel = "beta"

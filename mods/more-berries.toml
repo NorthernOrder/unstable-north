@@ -1,0 +1,14 @@
+name = "More Berries"
+filename = "moreberries-1.4.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3347/517/moreberries-1.4.2.jar"
+hash-format = "murmur2"
+hash = "1758030809"
+
+[update]
+[update.curseforge]
+file-id = 3347517
+project-id = 315749
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Companion bats"
+filename = "companion-bats-fabric-1.17.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3418/995/companion-bats-fabric-1.17.5.jar"
+hash-format = "murmur2"
+hash = "3535088206"
+
+[update]
+[update.curseforge]
+file-id = 3418995
+project-id = 443822
+release-channel = "beta"

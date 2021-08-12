@@ -1,0 +1,14 @@
+name = "Enhanced Mushrooms (Fabric)"
+filename = "enhanced_mushrooms-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3369/619/enhanced_mushrooms-1.0.5.jar"
+hash-format = "murmur2"
+hash = "2589227988"
+
+[update]
+[update.curseforge]
+file-id = 3369619
+project-id = 474078
+release-channel = "beta"
